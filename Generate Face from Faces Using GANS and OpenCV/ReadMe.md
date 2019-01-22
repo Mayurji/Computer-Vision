@@ -1,8 +1,11 @@
+### Face Augmentation:
+    1.It imports the functions from opencv.py file, we can apply any function from opencv and augment data 
+    as needed including cropping, accessing pixels, drawing shapes etc.
+
 ### Face Detection:
     1.Using Haarcascade Frontal Face Detector, we can detect the faces and store it seperately.
     2.Using OpenCV, we can apply any of the augmentation technique like rotation, flipping, translation
       as required.
-
 
 ### Under Images Folder:
   
