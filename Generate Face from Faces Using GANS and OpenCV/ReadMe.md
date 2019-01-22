@@ -22,6 +22,5 @@
  
 ### Generated Images:
  
- 
  ![alt text](https://github.com/Mayurji/Computer-Vision/blob/master/Generate%20Face%20from%20Faces%20Using%20GANS%20and%20OpenCV/images/GANS%20with%20Adam%20.0002/9950.png "Generated Images")
   
