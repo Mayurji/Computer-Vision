@@ -1,3 +1,8 @@
+### Face Detection:
+    1.Using Haarcascade Frontal Face Detector, we can detect the faces and store it seperately.
+    2.Using OpenCV, we can apply any of the augmentation technique like rotation, flipping, translation
+      as required.
+
 
 ### Under Images Folder:
   
