@@ -3,4 +3,4 @@
 **What to expect is :**
 
 Learn basic of computer vision reading image in terms of value, converting to different image format like RGB and HSV etc,
-learn to reduce noise in image, performing edge detection, why corner are better feature detector.
+learn to reduce noise in image, performing edge detection, why corner are better features.
