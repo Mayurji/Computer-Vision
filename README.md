@@ -14,9 +14,10 @@ The sole purpose of creating this repo is to maintain an archive of what i know 
    * Face detection.
    * Noise reduction in an image.
    * Filters like LPF, HPF, Sobel etc.
-   * Classification of Images using CNN
    * Convolutional Neural Network.
+   * Classification of Images using CNN
    * Facial Keypoint detection.
+   * Applying Filter on detected facial Keypoints like Snapchat.
    * Classification of Multiple Object in an image.
     
     
