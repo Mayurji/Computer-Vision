@@ -18,7 +18,10 @@ The sole purpose of creating this repo is to maintain an archive of what i know 
    * Classification of Images using CNN
    * Facial Keypoint detection.
    * Applying Filter on detected facial Keypoints like Snapchat.
+   * Brief description on RCNN, FRCNN, Faster RCNN, YOLO etc
    * Classification of Multiple Object in an image.
+   * Tracking and Classifying objects in an Video using Darknet/Yolov3
+   
     
     
     To be Continued...
