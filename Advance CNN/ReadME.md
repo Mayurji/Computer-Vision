@@ -4,7 +4,7 @@ A normal CNN classifier finds the classification of image like dogs, person etc,
 and Pooling layers followed by fully connected layers. But identifying and then tracking the identified objects requires more
 than just convolutional layers.
 
-![Yolo Object Detection and Tracking](yolo.gif)
+   ![Yolo Object Detection and Tracking](yolo.gif)
 
 
 There are many models which helps in locating and identifying an object in an image or video such as R-CNN, FastR-CNN, 
