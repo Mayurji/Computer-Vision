@@ -2,7 +2,7 @@
 
 **Hello Everyone !**
 
-The primary purpose of creating this repo is to maintain an archive of what i know about computer vision. I am constantly learning new topics on computer vision which i update in this repo.
+**The primary purpose of creating this repo is to maintain an archive of what i know about computer vision. I am constantly learning new topics on computer vision which i update in this repo.**
 
 ### Contents
 
