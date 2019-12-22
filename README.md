@@ -7,9 +7,13 @@
 ### Contents
 
      * How images are read.
+     
      * Edges, corners, contour as features.
+     
      * Why corners are better features.
+     
      * Color format of images like HSV and RGB.
+     
      * Clustering the parts of image using Kmeans.
      * Face detection.
      * Noise reduction in an image.
