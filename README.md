@@ -39,6 +39,14 @@
      * Creating Basic LSTM network for POS tagging.
      
      * Generate Next word based on Previous Input using LSTM.
+     
+     * Hyperparameters like learning rate, Epoch's, Mini-batch Size, Hidden units/ layers etc
+     
+     * Why Attention over Seq2Seq ?
+     
+     * Why Transformer better than Attention with RNN ?
+     
+     * Image Captioning using Attention.
 
     
     
