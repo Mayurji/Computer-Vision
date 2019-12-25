@@ -50,7 +50,13 @@
 
  * Image Captioning using Attention.
 
+ * Understanding Optical Flow
+ 
+ * Understanding Sense and Move through probability distribution
+ 
+ * Robot Localization through Sense and Move
     
     
-    To be Continued...
+    
+        To be Continued...
     
