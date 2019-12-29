@@ -1,10 +1,21 @@
 ### Image Captioning
 
-Image Captioning is one of the biggest challenges in Computer Vision, as it involves couple of crucial ideas. 
-First, understanding the image and then secondly, presenting it through utterances like humans do. 
+Image Captioning is one of the biggest challenges in Computer Vision, as it involves a couple of crucial ideas. 
+First, understanding the image and then secondly, presenting it through utterances like humans do. The ideas is a CNN-RNN model, where CNN is considered as Encoder of the network while the RNN is considered as Decoder of the Network.
+
+### Understanding COCO Dataset
+
+The dataset consists of train2014, val2014 and test2014. Both the train2014 and val2014 folder contains images, annotations,
+Person Keypoints, Captions etc. Each image has 5 captions mapped to it. I will train CNNRNN model on train2014.
+
+**Dataset URL** http://cocodataset.org/#download
+
+#### Note
+**There are some inherent issue with images in train2014. So i have developed a script "missingFile_cocodataset", which will clear the images details which are mapped to images, which are present in train2014.**
 
 ### Models:
 
-  **To understand the image, we use ResNet model for extracting the feature. (Try different models if required.)**
+  **To understand the image, we use pretrained, ResNet model for extracting the feature. (Try different models if required.)**
   
-  **Word Embedding generated from the captions is used in RNN for generating sequences based on Image Features**
+  **The captions are tokenized using NLTK, and then a vocabulary is created. Each caption is turned into word embedding.
+  Word Embedding acts as input size to the RNN.
