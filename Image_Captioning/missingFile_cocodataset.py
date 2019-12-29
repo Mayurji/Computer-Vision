@@ -1,9 +1,9 @@
 import json
 import os
-train_files = "/Users/mayurjain/cocoapi/images/train2014/"
-instances_train = "/Users/mayurjain/cocoapi/annotations/instances_train2014.json"
-captions_train = "/Users/mayurjain/cocoapi/annotations/captions_train2014.json"
-person_KP_train = "/Users/mayurjain/cocoapi/annotations/person_keypoints_train2014.json"
+train_files = "/cocoapi/images/train2014/"
+instances_train = "/cocoapi/annotations/instances_train2014.json"
+captions_train = "/cocoapi/annotations/captions_train2014.json"
+person_KP_train = "/cocoapi/annotations/person_keypoints_train2014.json"
 
 
 """
@@ -112,7 +112,7 @@ def pop_img_ids(img_ids,json_file):
     return json_file
 
 def write_json(json_file):
-    return open("/Users/mayurjain/cocoapi/annotations/instances_train2014.json", "w").write(json.dumps(data))
+    return open("/cocoapi/annotations/instances_train2014.json", "w").write(json.dumps(data))
 
 instances = file_names(instances)
 invalid_files = invalid_files_names(jpg_file_name,instances)
