@@ -19,4 +19,4 @@ Person Keypoints, Captions etc. Each image has 5 captions mapped to it. For more
   **To understand the image, we use pretrained, ResNet model for extracting the feature. (Try different models if required.)**
   
   **The captions are tokenized using NLTK, and then a vocabulary is created. Each caption is turned into word embedding.
-  Word Embedding acts as input size to the RNN.
+  Word Embedding acts as input size to the RNN.**
