@@ -11,7 +11,8 @@ Person Keypoints, Captions etc. Each image has 5 captions mapped to it. I will t
 **Dataset URL** http://cocodataset.org/#download
 
 #### Note
-    There are some inherent issue with images in train2014. So i have developed a script "missingFile_cocodataset", which will clear the images details which are mapped to images, which are not present in train2014.
+    There are some inherent issue with images in train2014. So i have developed a script "missingFile_cocodataset", 
+    which will clear the images details which are mapped to images, which are not present in train2014.
 
 ### Models:
 
