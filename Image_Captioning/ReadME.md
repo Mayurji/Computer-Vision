@@ -6,7 +6,7 @@ First, understanding the image and then secondly, presenting it through utteranc
 ### Understanding COCO Dataset
 
 The dataset consists of train2014, val2014 and test2014. Both the train2014 and val2014 folder contains images, annotations,
-Person Keypoints, Captions etc. Each image has 5 captions mapped to it. I will train CNNRNN model on train2014.
+Person Keypoints, Captions etc. Each image has 5 captions mapped to it. For more details, check the url below
 
 **Dataset URL** http://cocodataset.org/#download
 
