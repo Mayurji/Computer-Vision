@@ -23,4 +23,4 @@ Person Keypoints, Captions etc. Each image has 5 captions mapped to it. For more
   
 ### Model Result:
 
-![Sample Image](/giraffe.jpg)
+![Sample Image](//giraffe.jpg)
