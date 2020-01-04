@@ -23,4 +23,10 @@ Person Keypoints, Captions etc. Each image has 5 captions mapped to it. For more
   
 ### Model Result:
 
+#### Sample Input
 ![Sample Image](giraffe.jpg)
+
+
+#### Caption Output
+**a giraffe is standing in a field with trees in the background.**
+
