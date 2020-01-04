@@ -23,7 +23,7 @@ Person Keypoints, Captions etc. Each image has 5 captions mapped to it. For more
   
 ### Model Result:
 
-The model only ran on one epoch because of the computing constraint. But the result turned out pretty well for one epoch as seen below.
+The model only ran for one epoch because of the computing constraint. But the result turned out pretty well for one epoch as seen below.
 
 #### Sample Input Image and Caption Output
 ![Sample Image](giraffe.jpg)
