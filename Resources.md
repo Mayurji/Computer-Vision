@@ -15,4 +15,4 @@
 * [Learning Rate 1](http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/)
 * [Learning Rate 2](http://cs231n.github.io/neural-networks-3/#loss)
 * [Gradient Clipping](https://arxiv.org/abs/1211.5063)
-
+* [Character Generation RNN](https://github.com/udacity/deep-learning/blob/master/intro-to-rnns/Anna_KaRNNa_Solution.ipynb)
