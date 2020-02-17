@@ -16,3 +16,20 @@
 * [Learning Rate 2](http://cs231n.github.io/neural-networks-3/#loss)
 * [Gradient Clipping](https://arxiv.org/abs/1211.5063)
 * [Character Generation RNN](https://github.com/udacity/deep-learning/blob/master/intro-to-rnns/Anna_KaRNNa_Solution.ipynb)
+* [Deep Learning Interactive Lessons by Jay](http://jalammar.github.io/)
+* [Adaptive Learning](https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer)
+* [Adaptive Gradient](https://www.tensorflow.org/api_docs/python/tf/train/AdagradOptimizer)
+* [Systematic Evaluation of CNN](https://arxiv.org/abs/1606.02228)
+* [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1703.03906v2)
+* [Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078)
+* [An Empirical Exploration of Recurrent Network Architectures](http://proceedings.mlr.press/v37/jozefowicz15.pdf)
+* [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555)
+* [Efficient Backpropagation](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+* [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533)
+* [Choosing Hyperparameter](http://neuralnetworksanddeeplearning.com/chap3.html#how_to_choose_a_neural_network's_hyper-parameters)
+* [How to Generate a Good Word Embedding?](https://arxiv.org/abs/1507.05523)
+* []()
+
+
+
+
