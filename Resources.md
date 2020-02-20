@@ -28,8 +28,10 @@
 * [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533)
 * [Choosing Hyperparameter](http://neuralnetworksanddeeplearning.com/chap3.html#how_to_choose_a_neural_network's_hyper-parameters)
 * [How to Generate a Good Word Embedding?](https://arxiv.org/abs/1507.05523)
-* []()
-
+* [GANs](https://arxiv.org/pdf/1406.2661.pdf)
+  * [Pix2Pix](https://affinelayer.com/pixsrv/)
+  * [CycleGAN](https://github.com/junyanz/CycleGAN)
+  * [Generative Models](https://github.com/wiseodd/generative-models)
 
 
 
