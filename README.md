@@ -49,6 +49,16 @@
  * Why Transformer better than Attention with RNN ?
 
  * Image Captioning using Attention.
+ 
+ * Pytorch Implementation of Both NLP and Computer Vision Tasks
+
+ * Sentiment Analysis using Pytorch with RNN Architecture.
+ 
+ * Word/Character Generation using LSTMs
+ 
+ * Generate MNIST Images using GANs
+ 
+ * Generate Celebrity Faces using DCGANs
 
  * Understanding Optical Flow
  
