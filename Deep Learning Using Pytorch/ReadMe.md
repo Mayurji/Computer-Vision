@@ -2,7 +2,7 @@
 
 In this Section, I have implemented Pytorch projects related to NLP tasks such as 
 
-![GANs Generated MNIST](Image_generated.png)
+                                     ![GANs Generated MNIST](Image_generated.png)
 
 
  > **word/character generation using RNN and LSTM**
