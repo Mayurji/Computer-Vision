@@ -3,7 +3,7 @@
 In this Section, I have implemented Pytorch projects related to NLP tasks such as 
 
 <p align="center">
-   ![GANs Generated MNIST](Image_generated.png)
+   <img src=Image_generated.png>
 </p>
 
  > **word/character generation using RNN and LSTM**
