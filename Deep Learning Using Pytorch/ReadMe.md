@@ -3,8 +3,11 @@
 In this Section, I have implemented Pytorch projects related to NLP tasks such as 
 
  > **word/character generation using RNN and LSTM**
+ 
  > **Classifiying Names using LSTM** 
+ 
  > **Sentiment Classification using RNN**
+ 
  > **Generating Images like MNIST or Celebrity faces using GANs Network.**
 
 ### Things you will learn
