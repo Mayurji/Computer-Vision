@@ -62,6 +62,8 @@
 
  * Understanding Optical Flow
  
+ * Shi-Tomasi Corner Detector
+ 
  * Understanding Sense and Move through probability distribution
  
  * Robot Localization through Sense and Move
