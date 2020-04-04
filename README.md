@@ -66,8 +66,11 @@
  
  * Understanding Sense and Move through probability distribution
  
+ * 2D Histogram Filter (Monte Carlo)
+ 
  * Robot Localization through Sense and Move
     
+ * Kalman Filter (Gaussian Distribution)
     
     
         To be Continued...
