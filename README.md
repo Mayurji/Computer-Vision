@@ -71,6 +71,10 @@
  * Robot Localization through Sense and Move
     
  * Kalman Filter (Gaussian Distribution)
+ 
+ * SLAM - Simultaneous Localization and Mapping
+ 
+ * Landmark Detection
     
     
         To be Continued...
