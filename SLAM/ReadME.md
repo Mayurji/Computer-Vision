@@ -60,10 +60,11 @@ The vector, mu, should have (x, y) coordinates interlaced, for example, if there
                                               [Ly1]])
 You can see that mu holds the poses first (x0, y0), (x1, y1), ..., then the landmark locations at the end of the matrix; we consider a nx1 matrix to be a vector.
 
-### Omega After 20 Movement updates
+### Omega After 20 Random Movement updates
+![Omega Matrix](Images/Omega.png)
 
-![omega matrix](Images/Omega.png)
+### Xi After 20 Random Motion updates
+![Xi Vector](Images/Xi.png)
 
-### Xi After 20 Motion updates
-
-![Xi vector](Images/Xi.png)
+### 2D Map of Traversed Locations
+![2D World Traversed](Images/world_19.png)
