@@ -67,4 +67,6 @@ You can see that mu holds the poses first (x0, y0), (x1, y1), ..., then the land
 ![Xi Vector](Images/Xi.png)
 
 ### 2D Map of Traversed Locations
+Inital location (50,50)
+
 ![2D World Traversed](Images/world_19.png)
