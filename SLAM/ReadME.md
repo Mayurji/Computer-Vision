@@ -3,7 +3,7 @@
 To derive a map from a **Self Driving Point**, as it traverses through the 2D world with help of senses and movements. 
 SLAM gives us a way to both localize a robot and build up a map of its environment as a robot moves and senses in real-time. This is an active area of research in the fields of robotics and autonomous systems. Since this localization and map-building relies on the visual sensing of landmarks, this is a computer vision problem.
 
-![SLAM Operation](slam.avi)
+![SLAM Operation](slam.gif)
 
 ### Technique
 
