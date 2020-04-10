@@ -24,7 +24,7 @@ Implementing SLAM for robot(Point) that moves and senses in a 2 dimensional, gri
 
 To implement Graph SLAM, a matrix and a vector (omega and xi, respectively) are introduced. The matrix is square and labelled with all the robot poses (xi) and all the landmarks (Li). Every time you make an observation, for example, as you move between two poses by some distance dx and can relate those two positions, you can represent this as a numerical relationship in these matrices.
 
-![Omega * Xi](Images/)
+![Omega * Xi](Images/omega_xi_constraints.png)
 
 From robot motion, representations of uncertainty in motion and sensing, and localization techniques, we define a function, slam, which takes in six parameters as input and returns the vector mu. mu contains the (x,y) coordinate locations of the robot as it moves, and the positions of landmarks that it senses in the world
 
