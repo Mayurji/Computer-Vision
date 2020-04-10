@@ -24,6 +24,10 @@ Implementing SLAM for robot(Point) that moves and senses in a 2 dimensional, gri
 
 To implement Graph SLAM, a matrix and a vector (omega and xi, respectively) are introduced. The matrix is square and labelled with all the robot poses (xi) and all the landmarks (Li). Every time you make an observation, for example, as you move between two poses by some distance dx and can relate those two positions, you can represent this as a numerical relationship in these matrices.
 
+### 1D World
+
+**Omega Matrix and Xi Vector**
+
 ![Omega * Xi](Images/omega_xi_constraints.png)
 
 Consider the above image, its the constraint of move and senses in 1D world. Inital position X_0 = -3, then it moves +5, i.e.
@@ -31,9 +35,19 @@ it moves forward by 5 unit to position X_1. We keep the actual distance as a vec
 We have study the System of Linear Equation in high school, given two equation solve for x and y. Similarly we are solving for
 X_0, X_1,.. X_N given N is our total number of movements.
 
+### Motion Constraints
+
+![Motion Constraints](Images/motion_constraint.png)
+
+**Solved System of Equations**
+
 ![Solved Linear Equation Result](Images/solution.png)
 
 From robot motion, representations of uncertainty in motion and sensing, and localization techniques, we define a function, slam, which takes in six parameters as input and returns the vector mu. mu contains the (x,y) coordinate locations of the robot as it moves, and the positions of landmarks that it senses in the world
+
+### 2D World
+
+![2D View of Omega and Xi](Images/constraints2D.png)
 
 The vector, mu, should have (x, y) coordinates interlaced, for example, if there were 2 poses and 2 landmarks, mu will look like the following, where P is the robot position and L the landmark position:
                                 mu =  matrix([[Px0],
@@ -46,4 +60,10 @@ The vector, mu, should have (x, y) coordinates interlaced, for example, if there
                                               [Ly1]])
 You can see that mu holds the poses first (x0, y0), (x1, y1), ..., then the landmark locations at the end of the matrix; we consider a nx1 matrix to be a vector.
 
-![2D View of Omega and Xi](Images/constraints2D.png)
+### Omega After 20 Movement updates
+
+![omega matrix](Images/Omega.png)
+
+### Xi After 20 Motion updates
+
+![Xi vector](Images/Xi.png)
