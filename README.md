@@ -4,7 +4,6 @@
 
 **This repo contains both the basics and advance topics of Computer Vision, along with Implemention using Deep Learning with Python.**
 
-    ![Computer Vision](Object Detection and Tracking.gif)
 
 ### Contents
 
