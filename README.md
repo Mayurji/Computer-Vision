@@ -2,7 +2,9 @@
 
 **Hello Everyone !**
 
-**This repo contains both the basics and advance topics of Computer Vision, along with Implemention using Deep Learning with Python.**
+This repo contains both the basics and advance topics of Computer Vision, along with Implemention using Deep Learning with Python.
+
+![Yolo Gif](yolo.gif)
 
 
 ### Contents
