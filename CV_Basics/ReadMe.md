@@ -1,4 +1,4 @@
-**Computer Vision basics is implementation of all the basic concepts of computer vision done with help of OpenCV.** 
+**Computer Vision basics is implementation of all the basic concepts of computer vision with help of OpenCV.** 
 
 **What to Expect:**
 
