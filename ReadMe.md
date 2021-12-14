@@ -1,11 +1,24 @@
-**Computer Vision basics is implementation of all the basic concepts of computer vision with help of OpenCV.** 
+The objective of the repository is to help software engineers to get started with computer vision and deep learning for CV.
 
-**What to Expect:**
+**Topic**
 
-Learn basic of computer vision 
+**Image Channels**
+    - RGB Format
+    - HSV Format
+    - Replace the background with new image.
+    - Identify object based on color.
 
-* reading image in terms of value
-* converting to different image format like RGB and HSV etc
-* learn to reduce noise in image
-* performing edge detection
-* why corner are better features.
+**Filters**
+    - Frequency / Intensity
+    - High Pass Filter (Sobel Filter)
+    - Low Pass Filter (Gaussian Blur)
+    - Reducing noise in an image and enhance relevant details using Filters
+    - Canny Edge Detection
+    - Hough Transform (Line Detection)
+
+**Features**
+    - Edges, Corners and Contours
+    - Corner Detection using Harris Algorithms
+    - Dilation 
+    - Erosion
+    - Opening and Closing technique for image enhancement.
