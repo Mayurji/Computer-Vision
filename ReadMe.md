@@ -1,5 +1,7 @@
 The objective of the repository is to help software engineers to get started with computer vision and deep learning for CV.
 
+![Computer-Vision](Images/imageSegmentation.jpg)
+
 **Topic**
 
 **Image Channels**
