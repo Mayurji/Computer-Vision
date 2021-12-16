@@ -21,3 +21,7 @@
  - Dilation 
  - Erosion
  - Opening and Closing technique for image enhancement.
+
+ **Feature Detector**
+ - ORB Algorithm
+ - keypoint matching on Scale Variant Images.
