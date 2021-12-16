@@ -8,4 +8,5 @@ Learning Computer-Vision
 
 | Computer-Vision-Basics | Topic | Notebook Link |
 | :---: | :----:       | :---:       |
-| Channels | RGB, HSV, etc | [![Notebook Link](https://img.shields.io/Notebook--I-up-down-green-red/http/shields.io.svg)](https://github.com/Mayurji/Computer-Vision/blob/master/computer-vision-basics/Computer%20Vision%20Basics%20-%20Part%20-%20I.ipynb)|
+| Channels | RGB, HSV, etc | [![Notebook Link](https://img.shields.io/Notebook-up-down-green-red/http/monip.org.svg)](http://monip.org/)
+(https://github.com/Mayurji/Computer-Vision/blob/master/computer-vision-basics/Computer%20Vision%20Basics%20-%20Part%20-%20I.ipynb)|
